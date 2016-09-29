@@ -14,7 +14,7 @@ body {
 }
 
 h1, h2, h3 {
-    color: #226622;
+    color: #AA2222;
 }
 
 h1 {
@@ -31,6 +31,14 @@ h2 {
 h3 {
     font-size: 14px;
     margin: 5px 0;
+}
+
+a {
+    color: #2222AA;
+}
+
+a:hover {
+    text-decoration: none;
 }
 
 p {
@@ -60,11 +68,4 @@ td, th {
 
 th {
     border-bottom-width: 2px;
-}
-
-.tfoot {
-    display: block;
-    font-size: 12px;
-    margin: -5px auto 5px auto;
-    text-align: center;
 }
