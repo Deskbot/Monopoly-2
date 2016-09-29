@@ -42,6 +42,8 @@ Rolling a double has no effect.
 Chance and Community Chest Cards
 --------------------------------
 
+All players start with 1 Chance and 1 Community Chest card in their hand.
+
 When a player lands on a Chance or Community Chest space, all players draw one of that card from the deck. If there aren't enough cards in a deck for all players to draw at once, the discard pile is shuffled; enough cards to bring the number of remaining cards up to the number of people trying to draw are taken from the shuffled discard pile and put into the deck. The deck is shuffled; the cards are drawn; and the remaining shuffled discarded cards become the new deck. This is so that it can't be known who's received a recycled card from the discard pile.
 
 Chance and Community Chest cards do not have to be used immediately. They are kept by players and do not have to be shown to others until they are played. During a player's turn, they can activate any number of Chance or Community Chest cards from their hand on any player. The player they choose to play the card on receives that card's effects.
