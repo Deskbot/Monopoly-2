@@ -1,0 +1,70 @@
+html {
+    border: 1px dashed #666666;
+    height: auto;
+}
+
+body {
+    background-color: #EEEEEE;
+    font-family: helvetica;
+    font-size: 14px;
+    line-height: 150%;
+    margin: auto;
+    padding: 10px;
+    width: 210mm;
+}
+
+h1, h2, h3 {
+    color: #226622;
+}
+
+h1 {
+    font-size: 24px;
+    text-align: center;
+    margin: 15px 0;
+}
+
+h2 {
+    font-size: 18px;
+    margin: 15px 0;
+}
+
+h3 {
+    font-size: 14px;
+    margin: 5px 0;
+}
+
+p {
+    margin: 5px 0;
+}
+
+ul, ol {
+    margin: 15px 0;
+}
+
+ul. ol {
+    padding: 0 0 0 20px;
+}
+
+table {
+    border: 1px solid #666666;
+    border-collapse: collapse;
+    font-size: 14px;
+    margin: 15px auto;
+}
+
+td, th {
+    border: 1px solid #AAAAAA;
+    min-width: 15px;
+    padding: 2px 4px;
+}
+
+th {
+    border-bottom-width: 2px;
+}
+
+.tfoot {
+    display: block;
+    font-size: 12px;
+    margin: -5px auto 5px auto;
+    text-align: center;
+}
