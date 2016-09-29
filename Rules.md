@@ -71,7 +71,7 @@ Any properties returned to the bank are placed at the bottom of the title deed d
 
 Properties can not be exchanged in this way if any buildings are built upon them, but they can be exchanged if they are part of a monopoly.
 
-Only in the event of making a payment can buildings used in a transaction. All buildings are worth the amount used to buy them. When exchanging a Hotel, it can be exchanged for Houses on that monopoly at the same time. The value of a hotel equals `(5 - the_number_of_houses_replacing_it) * the_value_of_a_house_on_that_monopoly`. [^SellingHotels]
+Only in the event of making a payment can buildings be used in a transaction. All buildings are worth the amount used to buy them. When exchanging a Hotel, it can be exchanged for Houses on that monopoly at the same time. The value of a hotel equals `(5 - the_number_of_houses_replacing_it) * the_value_of_a_house_on_that_monopoly`. [^SellingHotels]
 
 When a Hotel/House is received in a payment, it must be exchanged with the bank for the amount of money that it is worth. [^clarification]
 
@@ -82,7 +82,7 @@ Players can only be sent to Jail by landing on "Go To Jail" or by having a "Go T
 
 When in jail, a player will still be paid money by every usual means, however:
 
-* Their token cannot be moved while in prison;
+* Their token cannot be moved;
 * they can not roll the dice for movement;
 * they can not play Chance or Community Chest cards, except for a "Get out of Jail Free Card";
 * they can roll two dice on their turn with the effect that if they match, they become "Just Visiting" and can continue their turn like a normal turn;
@@ -108,6 +108,7 @@ Summary of Reasoning
 Some reasoning is provided in footnotes, but here is a general idea about what I was trying to achieve.
 
 The game of Monopoly needs to be improved by:
+
 * it ending sooner;
 * it being more strategic.
 
@@ -116,22 +117,22 @@ Aspects of the game that would happen eventually but would take a long time now 
 * buying buildings on all properties in a monopoly;
 * having all the properties bought;
 * all properties being grouped into monopolies;
-* properties changing ownership. [^trading]
+* properties changing ownership.
 
 Aspects of the game that weren't very strategic now require more thought:
 
 * applying the effect of a Chance or Community Chest card the moment it was picked up
 * all movement being random
-    - not controlling what you have the chance of buying (we can ignore auctions in that fact because everyone knows allowing them to happen is a bad thing);
+    - not controlling what you have the chance of buying (we can ignore auctions because everyone knows it's a bad idea to cause one to happen);
     - not controlling the likelihood of your properties being landed on
 
 Potential Changes to the Changes
 --------------------------------
 
-These ideas are all untested so I can only speculate about whether they'll improve the game.
+The following ideas are untested, so I can only speculate about whether they'll improve the game.
 
-* Make Houses and Hotels much cheaper perhaps something like 20, 40, 60, 80 instead of 50, 100, 150, 200. Then when a property is used in a transaction, the value of its buildings could be taken into consideration, and then the complicated rules around selling buildings but only in certain scenarios won't be a thing. The problem with this is that it might discourage buying houses because you've got bigger indivisible units, so there will be a greater loss if you don't maintain a larger monetary buffer.
-* A building is worth however much it's worth on the property they put it on. If they don't have any, they get the money for it from the bank the way they do now. The problem with this could be that the receiver has to decide how much it's worth, making it harder and take longer for the payer to decide in what materials they'll pay.
+* Houses and Hotels apply to individual properties instead of Monopolies, but make them much cheaper (perhaps something like 20, 40, 60, 80 instead of 50, 100, 150, 200). Then when a property is used in a transaction, the value of its buildings could be taken into consideration, and then the complicated rules around selling buildings only in certain scenarios won't be a thing. The problem with this is that it might discourage buying houses because you've got bigger indivisible units, so there will be a greater loss if you don't maintain a larger monetary buffer.
+* A building used in a transaction can be put on a property of the recipient and is valued at however much it's worth on the property they put it on. If they don't have anywhere to put it, they get the money for it from the bank the way they do now. The problem with this could be that the receiver has to decide how much it's worth, making it harder and take longer for the payer to decide in what materials they'll pay.
 
 Footnotes
 ---------
@@ -143,7 +144,7 @@ Footnotes
     If it wasn't obvious, rounding a multiple of 5 up to the nearest 5 keeps it the same.
 
 [^1pounds]:
-    How useful were they ever? They've just been a nuisance all this time. I thought to get rid of them before remembering [John Green's tirade against pennies](https://www.youtube.com/watch?v=77C47XYm_3c). Money exists in order to facilitate commerce, but Monopoly's £1 note doesn't do that it *dificilitates* it. If we want Monopoly to last a reasonable amount of time we have to look at the opportunity cost of things players have to do, and every moment people spend fiddling with £1 notes or exchanging 5s for them at the bank is a moment for which the game drags on.
+    How useful were they ever? They've just been a nuisance all this time. I thought to get rid of them before remembering [John Green's tirade against pennies](https://www.youtube.com/watch?v=77C47XYm_3c). Money exists in order to facilitate commerce, but Monopoly's £1 note doesn't do that it *dificilitates* it. If we want Monopoly to last a reasonable amount of time we have to look at the opportunity cost of things players have to do, and every moment people spend fiddling with £1 notes or exchanging 5s for them at the bank is a moment on for which the game drags.
 
 [^CCCValue]:
     I'm not 100% sure about the fact that they can't be exchanged. But I am firm about them having no value. There is no bartering with other player's built into this game, so allowing this would be the only exception.
