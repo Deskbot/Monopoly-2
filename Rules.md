@@ -6,6 +6,11 @@ Monopoly 2.0
 
 The rules of Monopoly 2 are the same as in the original game but with the following exceptions.
 
+How Many Players
+----------------
+
+The game does not work with 2 people. It probably only works with 3-6 players. [^players]
+
 Win Condition
 -------------
 
@@ -128,6 +133,9 @@ These ideas are all untested so I can only speculate about whether they'll impro
 
 Footnotes
 ---------
+
+[^players]:
+    The game is usually 2-6 people. So ruling out 2, it's 3-6. Who played it with 2 people before anyway? It was even less fun.
 
 [^Nearest5]:
     If it wasn't obvious, rounding a multiple of 5 up to the nearest 5 keeps it the same.
