@@ -1,5 +1,7 @@
-<link rel="stylesheet" href="Rules.css">
-<meta charset="utf-8">
+<head>
+    <link rel="stylesheet" href="Rules.css">
+    <meta charset="utf-8">
+</head>
 
 Monopoly 2.0
 ============
@@ -30,7 +32,7 @@ The title deed cards are shuffled and placed face down on the board. The top 4 c
 Movement and Dice Rolling
 -------------------------
 
-During a player's turn, they must roll 2 six-sided dice, then they choose a player to move that distance along the board. The player being moved receives any effects of the space they land upon. The same player must not be moved by the dice two turns in a row, however they may be moved by other means.[^MovementStrats]
+During a player's turn, they must roll 2 six-sided dice, then they choose a player to move that distance along the board. The player being moved receives any effects of the space they land upon. The same player must not be moved by the dice two turns in a row, however they may be moved by other means. If no player is eligible to move, no player is moved. [^MovementStrats]
 
 Rolling a double has no effect.
 
