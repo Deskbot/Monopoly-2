@@ -11,7 +11,7 @@ The rules of Monopoly 2 are the same as in the original game but with the follow
 Win Condition
 -------------
 
-The game is won, when a player gains 5 monopolies or is the only player remaining, although that is an unlikely scenario to occur.
+The game is won, when a player gains 5 monopolies or is the only player remaining, although that is an unlikely scenario to occur. In the rare event that multiple players gain 5 monopolies simultaneously, the player with the highest total value of all assets wins. If those are equal, it is a draw between those players.
 
 This guide is written with the classic Monopoly in mind. Terminology and units will change depending on the version you are playing.
 
