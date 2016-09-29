@@ -1,7 +1,5 @@
-<head>
-    <link rel="stylesheet" href="Rules.css">
-    <meta charset="utf-8">
-</head>
+<link rel="stylesheet" href="Rules.css">
+<meta charset="utf-8">
 
 Monopoly 2.0
 ============
