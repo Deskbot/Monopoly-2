@@ -83,6 +83,8 @@ When in jail, a player will still be paid money by every usual means, however:
 
 None of these effects apply while "Just Visiting".
 
+Player's can not pay money to leave Jail.
+
 Mortgages
 --------
 
