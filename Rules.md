@@ -1,8 +1,12 @@
 <link rel="stylesheet" href="Rules.css">
 <meta charset="utf-8">
 
-Monopoly 2.0
+Monopoly 2.1
 ============
+
+This guide is written with the classic Monopoly in mind. Terminology and units will change depending on the version you are playing.
+
+This is a work in progress and changes will likely be made, if I can get people to play-test with; playing Monopoly is generally not something a lot of people care to do.
 
 The rules of Monopoly 2 are the same as in the original game but with the following exceptions.
 
@@ -16,10 +20,6 @@ Win Condition
 
 The game is won, when a player gains 5 monopolies or is the only player remaining, although that is an unlikely scenario to occur. In the rare event that multiple players gain 5 monopolies simultaneously, the player with the highest total value of all assets wins. If those are equal, it is a draw between those players.
 
-This guide is written with the classic Monopoly in mind. Terminology and units will change depending on the version you are playing.
-
-This is a work in progress and changes will likely be made, if I can get people to play-test with; playing Monopoly is generally not something a lot of people care to do.
-
 Money
 -----
 
@@ -28,7 +28,7 @@ All monetary values are rounded up to the nearest £5. [^Nearest5] Thus when the
 Buying Properties
 -----------------
 
-Players can not purchase any properties by landing on them, unless a Chance or Community Chest card states that they can. Auctions also do not exist.
+Players can not purchase any properties by landing on them, unless a Chance or Community Chest card states that they can. Auctions do not exist.
 
 The title deed cards are shuffled and placed face down on the board. The top 4 cards are turned over and placed face up on the board. During a player's turn, they can choose to purchase at most one of these face up properties for the price printed on the board. When one is bought, another title deed is turned over to replace it, until the deck is empty.
 
@@ -53,19 +53,19 @@ Chance and Community Chest cards have no value and must not be exchanged, gifted
 Buying Houses and Hotels
 ------------------------
 
-A single House or Hotel purchase affects an entire Monopoly. Houses and Hotels are placed in the middle of a run of properties to indicate that they apply to the entire monopoly. [^HHPlacement]
+A single House or Hotel purchase affects an entire monopoly. Houses and Hotels are placed in the middle of a run of properties to indicate that they apply to the entire monopoly. [^HHPlacement]
 
 Trading
 -------
 
-There is no direct trading or haggling. During a player's turn, they may buy any un-monopolised property that another player owns from them for its board price. [^stealing] [^trading]
+There is no direct trading or haggling. During a player's turn, they may buy any un-monopolised property that another player owns from them for 1.5 times its board price. [^stealing] [^trading]
 
 Re-selling and Payment
 ----------------------
 
 Owned property and buildings can not be sold back to the bank. Buildings and property are treated as an indivisible units of currency.
 
-If a payment is to be made, a player can play with a combination of cash and properties. Change can be given by the payee (bank or player) up to the amount of money given in the transaction. [^change] If a payer overpays by this method, it does not matter as far as the rules are concerned.
+If a payment is to be made, a player can pay with a combination of cash and properties. Change can be given by the payee (bank or player) up to the amount of money given in the transaction. [^change] If a payer overpays by this method, it does not matter as far as the rules are concerned.
 
 Any properties returned to the bank are placed at the bottom of the title deed deck.
 
@@ -85,12 +85,14 @@ When in jail, a player will still be paid money by every usual means, however:
 * Their token cannot be moved;
 * they can not roll the dice for movement;
 * they can not play Chance or Community Chest cards, except for a "Get out of Jail Free Card";
-* they can roll two dice on their turn with the effect that if they match, they become "Just Visiting" and can continue their turn like a normal turn;
+* they can roll 2 dice on their turn with the effect that if they match, they become "Just Visiting" and can continue their turn like a normal turn;
 * at the end of a second turn in Jail, they become "Just Visiting".
 
 None of these effects apply while "Just Visiting".
 
 Player's can not pay money to leave Jail.
+
+If a player goes to Jail during their own turn, their turn immediately ends and does not count towards the maximum of 2 turns in Jail.
 
 Mortgages
 --------
@@ -100,7 +102,7 @@ Properties can't be mortgaged.
 Free Parking
 ------------
 
-Technically I don't have to mention that nothing happens when you land on Free Parking as it's already an official rule. I don't think all money paid by Tax, Chance, and Community Chest should put on Free Parking and collected by anyone who lands on it because there is too much control of movement, it will be too game-swinging if someone receives a payout due to how many Chance and Community Chest cards are played throughout the game.
+Technically I don't have to mention that nothing happens when you land on Free Parking as it's already an official rule. I don't think all money paid by Tax, Chance, and Community Chest should put on Free Parking to be collected by anyone who lands on it. The high number of Chance and Community Chest cards played will keep the pot quite large, meaning that someone landing on it will swing the game too much. Players will also be keen to make sure no one stays near it for too long, increasing the size of the eventual payout.
 
 Summary of Reasoning
 --------------------
@@ -156,7 +158,7 @@ Footnotes
     I'm not certain whether instead each property should gain a House/Hotel when one is bought, instead of putting them in the middle. The difference here is that this alternative will run out of houses or hotels if too many are built. However it is much fiddlier to add and remove them as needed, which happens frequently.
 
 [^stealing]:
-    I feel like buying it for double the price makes it too difficult to complete monopolies in a timely manner. 150% of the board price could be considered.
+    I feel like buying it for double the price makes it too difficult to complete monopolies in a timely manner. Previously required an amount equal to the board price.
 
 [^trading]:
     A lot of people will think this is an awful change because that's kind of what the game was largely about. However the problem is that once a property is bought, its value sky-rockets because everybody knows how much they are worth later on in the game, and so there is a lot of refusal to trade and shouts about how "you mustn't let them have that or they're guaranteed to win". People are stubborn especially when they are keen to win. This wastes time and is not fun for other players waiting for their turn.
