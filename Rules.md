@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="Rules.css">
 <meta charset="utf-8">
 
-Monopoly 2.1
+Monopoly 2.2
 ============
 
 This guide is written with the classic Monopoly in mind. Terminology and units will change depending on the version you are playing.
@@ -84,7 +84,9 @@ When in jail, a player will still be paid money by every usual means, however:
 
 * Their token cannot be moved;
 * they can not roll the dice for movement;
+* they can not collect money from players landing on their property
 * they can not play Chance or Community Chest cards, except for a "Get out of Jail Free Card";
+* they can not draw Chance or Community Chest cards;
 * they can roll 2 dice on their turn with the effect that if they match, they become "Just Visiting" and can continue their turn like a normal turn;
 * at the end of a second turn in Jail, they become "Just Visiting".
 
