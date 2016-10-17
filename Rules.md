@@ -84,6 +84,7 @@ When in jail, a player will still be paid money by every usual means, however:
 
 * Their token cannot be moved;
 * they can not roll the dice for movement;
+* they can not buy property;
 * they can not collect money from players landing on their property
 * they can not play Chance or Community Chest cards, except for a "Get out of Jail Free Card";
 * they can not draw Chance or Community Chest cards;
