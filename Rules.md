@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="Rules.css">
 <meta charset="utf-8">
 
-Monopoly 2.2
+Monopoly 2.3
 ============
 
 This guide is written with the classic Monopoly in mind. Terminology and units will change depending on the version you are playing.
@@ -35,7 +35,7 @@ The title deed cards are shuffled and placed face down on the board. The top 4 c
 Movement and Dice Rolling
 -------------------------
 
-During a player's turn, they must roll 2 six-sided dice, then they choose a player to move that distance along the board. The player being moved receives any effects of the space they land upon. The same player must not be moved by the dice two turns in a row, however they may be moved by other means. If no player is eligible to move, no player is moved. [^MovementStrats]
+During a player's turn, they must roll 2 six-sided dice, then they choose a player to move that distance along the board. The player being moved receives any effects of the space they land upon. If no player is eligible to move, no player is moved. [^MovementStrats]
 
 Rolling a double has no effect.
 
