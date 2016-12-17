@@ -1,5 +1,5 @@
-Monopoly 2.3
-============
+Monopoly Two (2.3)
+==================
 
 An improved alternative rule-set for Monopoly. Implemented in English.
 
