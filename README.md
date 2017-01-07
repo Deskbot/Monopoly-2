@@ -21,7 +21,7 @@ Download:
 Required Packages:
 
 * pandoc
-* wkhtmltopdf (requires QT patch i.e. the directly downloaded binary files copied into /usr/bin instead of using a package manager)
+* wkhtmltopdf (requires QT patch i.e. the directly downloaded binary files copied into /usr/local/bin instead of using a package manager)
 
 Version
 -------
