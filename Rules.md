@@ -80,7 +80,7 @@ Jail
 
 Players can only be sent to Jail by landing on "Go To Jail" or by having a "Go To Jail" Chance or Community Chest card played on them.
 
-When in jail, a player will still be paid money by every usual means, however:
+When a player is in jail:
 
 * Their token cannot be moved;
 * they can not roll the dice for movement;
