@@ -29,5 +29,3 @@ Version
 Current version: **2.5**
 
 Any time a rule is changed, I'm increasing the version by 0.1. This is only really useful for people who check back and see that there are more commits, but want to know immediately whether those commits have changed any rules rather than just wording or grammar.
-
-I am starting to feel that they are a little bit nonsense actually.
