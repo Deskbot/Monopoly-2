@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="Rules.css">
 <meta charset="utf-8">
 
-Monopoly Two (2.5)
-==================
+Monopoly Two
+============
 
 This guide is written with the classic Monopoly in mind. Terminology and units will change depending on the version you are playing.
 
