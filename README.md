@@ -1,4 +1,4 @@
-Monopoly Two (2.3)
+Monopoly Two (2.4)
 ==================
 
 An improved alternative rule-set for Monopoly. Implemented in English.
@@ -26,6 +26,6 @@ Required Packages:
 Version
 -------
 
-Current version: **2.3**
+Current version: **2.4**
 
 Any time a rule is changed, I'm increasing the version by 0.1. This is only really useful for people who check back and see that there are more commits, but want to know immediately whether those commits have changed any rules rather than just wording or grammar.

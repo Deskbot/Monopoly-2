@@ -39,6 +39,8 @@ During a player's turn, they must roll 2 six-sided dice, then they choose a play
 
 Rolling a double has no effect.
 
+A Chance or Community Chest card that moves a player a set number of spaces e.g. "Go back 3 spaces." counts as a dice roll and so only one of these actions can be performed in a certain turn.
+
 Chance and Community Chest Cards
 --------------------------------
 
